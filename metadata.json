@@ -1,0 +1,6 @@
+{
+  "name": "Youth Fashion Store",
+  "description": "Cửa hàng thời trang hiện đại dành cho giới trẻ với thiết kế trẻ trung, bộ lọc sản phẩm, giỏ hàng, tính năng Mix & Match, và công cụ tính size thông minh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
